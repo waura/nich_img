@@ -1,0 +1,3342 @@
+[
+  {
+    "name": "地震headline",
+    "url": "http://headline.2ch.net/bbynamazu/"
+  },
+  {
+    "name": "地震速報",
+    "url": "http://anago.2ch.net/namazuplus/"
+  },
+  {
+    "name": "臨時地震",
+    "url": "http://hayabusa.2ch.net/eq/"
+  },
+  {
+    "name": "臨時地震+",
+    "url": "http://hayabusa2.2ch.net/eqplus/"
+  },
+  {
+    "name": "登山キャンプ",
+    "url": "http://ikura.2ch.net/out/"
+  },
+  {
+    "name": "遊園地",
+    "url": "http://toro.2ch.net/park/"
+  },
+  {
+    "name": "高校野球",
+    "url": "http://kohada.2ch.net/hsb/"
+  },
+  {
+    "name": "陸上競技",
+    "url": "http://kohada.2ch.net/athletics/"
+  },
+  {
+    "name": "花火",
+    "url": "http://ikura.2ch.net/fireworks/"
+  },
+  {
+    "name": "ソフトドリンク",
+    "url": "http://ikura.2ch.net/juice/"
+  },
+  {
+    "name": "スマホアプリ",
+    "url": "http://anago.2ch.net/applism/"
+  },
+  {
+    "name": "2ch検索",
+    "url": "http://find.2ch.net/"
+  },
+  {
+    "name": "be.2ch.net",
+    "url": "http://be.2ch.net/"
+  },
+  {
+    "name": "アンケート",
+    "url": "http://find.2ch.net/enq/board.php"
+  },
+  {
+    "name": "2chビューア",
+    "url": "http://2ch.tora3.net/"
+  },
+  {
+    "name": "テレビ番組欄",
+    "url": "http://epg.2ch.net/tv2chwiki/"
+  },
+  {
+    "name": "2chオークション",
+    "url": "http://shop.2ch.net/"
+  },
+  {
+    "name": "面白ネタnews",
+    "url": "http://kohada.2ch.net/be/"
+  },
+  {
+    "name": "なんでも質問",
+    "url": "http://ikura.2ch.net/nandemo/"
+  },
+  {
+    "name": "速報headline",
+    "url": "http://headline.2ch.net/bbynews/"
+  },
+  {
+    "name": "2NN+",
+    "url": "http://newsnavi.2ch.net/"
+  },
+  {
+    "name": "ビジネスnews+",
+    "url": "http://anago.2ch.net/bizplus/"
+  },
+  {
+    "name": "ニュース速報+",
+    "url": "http://uni.2ch.net/newsplus/"
+  },
+  {
+    "name": "緊急自然災害",
+    "url": "http://uni.2ch.net/lifeline/"
+  },
+  {
+    "name": "ニュース二軍+",
+    "url": "http://anago.2ch.net/wildplus/"
+  },
+  {
+    "name": "萌えニュース+",
+    "url": "http://anago.2ch.net/moeplus/"
+  },
+  {
+    "name": "芸スポ速報+",
+    "url": "http://awabi.2ch.net/mnewsplus/"
+  },
+  {
+    "name": "ほのぼのnews+",
+    "url": "http://anago.2ch.net/femnewsplus/"
+  },
+  {
+    "name": "痛いニュース+",
+    "url": "http://anago.2ch.net/dqnplus/"
+  },
+  {
+    "name": "科学ニュース+",
+    "url": "http://anago.2ch.net/scienceplus/"
+  },
+  {
+    "name": "お詫び+",
+    "url": "http://anago.2ch.net/owabiplus/"
+  },
+  {
+    "name": "ニュース実況+",
+    "url": "http://kohada.2ch.net/liveplus/"
+  },
+  {
+    "name": "ニュース速報",
+    "url": "http://hayabusa3.2ch.net/news/"
+  },
+  {
+    "name": "交通情報",
+    "url": "http://ikura.2ch.net/trafficinfo/"
+  },
+  {
+    "name": "芸能音楽速報",
+    "url": "http://ikura.2ch.net/musicnews/"
+  },
+  {
+    "name": "アニメ漫画速報",
+    "url": "http://engawa.2ch.net/comicnews/"
+  },
+  {
+    "name": "ゲーム速報",
+    "url": "http://awabi.2ch.net/gamenews/"
+  },
+  {
+    "name": "PCニュース",
+    "url": "http://kohada.2ch.net/pcnews/"
+  },
+  {
+    "name": "私のニュース",
+    "url": "http://ikura.2ch.net/news7/"
+  },
+  {
+    "name": "懐かしニュース",
+    "url": "http://ikura.2ch.net/archives/"
+  },
+  {
+    "name": "ニュース議論",
+    "url": "http://toro.2ch.net/news2/"
+  },
+  {
+    "name": "ニュース極東",
+    "url": "http://anago.2ch.net/asia/"
+  },
+  {
+    "name": "バカニュース",
+    "url": "http://ikura.2ch.net/bakanews/"
+  },
+  {
+    "name": "社説",
+    "url": "http://engawa.2ch.net/editorial/"
+  },
+  {
+    "name": "国際情勢",
+    "url": "http://uni.2ch.net/kokusai/"
+  },
+  {
+    "name": "戦争・国防",
+    "url": "http://engawa.2ch.net/war/"
+  },
+  {
+    "name": "東アジアnews+",
+    "url": "http://awabi.2ch.net/news4plus/"
+  },
+  {
+    "name": "イスラム情勢",
+    "url": "http://ikura.2ch.net/news5/"
+  },
+  {
+    "name": "イラク情勢",
+    "url": "http://uni.2ch.net/iraq/"
+  },
+  {
+    "name": "アフリカ情勢",
+    "url": "http://awabi.2ch.net/africa/"
+  },
+  {
+    "name": "欧州・CIS情勢",
+    "url": "http://awabi.2ch.net/europa/"
+  },
+  {
+    "name": "ニュース国際+",
+    "url": "http://anago.2ch.net/news5plus/"
+  },
+  {
+    "name": "ラウンジ",
+    "url": "http://ikura.2ch.net/entrance/"
+  },
+  {
+    "name": "ﾗｳﾝｼﾞｸﾗｼｯｸ",
+    "url": "http://uni.2ch.net/entrance2/"
+  },
+  {
+    "name": "初心者の質問",
+    "url": "http://ikura.2ch.net/qa/"
+  },
+  {
+    "name": "PC初心者",
+    "url": "http://kohada.2ch.net/pcqa/"
+  },
+  {
+    "name": "2chプロジェクト",
+    "url": "http://info.2ch.net/wiki/"
+  },
+  {
+    "name": "グッズリスト",
+    "url": "http://ikura.2ch.net/goods/"
+  },
+  {
+    "name": "ガイドライン",
+    "url": "http://anago.2ch.net/gline/"
+  },
+  {
+    "name": "イベント企画",
+    "url": "http://ikura.2ch.net/event/"
+  },
+  {
+    "name": "2ch証券取引所",
+    "url": "http://uni.2ch.net/2chse/"
+  },
+  {
+    "name": "いろいろランク",
+    "url": "http://info.2ch.net/rank/"
+  },
+  {
+    "name": "資料室",
+    "url": "http://ikura.2ch.net/dataroom/"
+  },
+  {
+    "name": "2ch運用情報",
+    "url": "http://qb5.2ch.net/operate/"
+  },
+  {
+    "name": "運用情報臨時",
+    "url": "http://uni.2ch.net/operatex/"
+  },
+  {
+    "name": "2ch規制情報",
+    "url": "http://qb5.2ch.net/sec2ch/"
+  },
+  {
+    "name": "2ch規制議論",
+    "url": "http://qb5.2ch.net/sec2chd/"
+  },
+  {
+    "name": "削除要請",
+    "url": "http://qb5.2ch.net/saku2ch/"
+  },
+  {
+    "name": "削除整理",
+    "url": "http://qb5.2ch.net/saku/"
+  },
+  {
+    "name": "削除議論",
+    "url": "http://qb5.2ch.net/sakud/"
+  },
+  {
+    "name": "自己紹介",
+    "url": "http://toro.2ch.net/intro/"
+  },
+  {
+    "name": "ほのぼの",
+    "url": "http://kohada.2ch.net/honobono/"
+  },
+  {
+    "name": "夢・独り言",
+    "url": "http://kohada.2ch.net/yume/"
+  },
+  {
+    "name": "大規模OFF",
+    "url": "http://kohada.2ch.net/offmatrix/"
+  },
+  {
+    "name": "定期OFF",
+    "url": "http://engawa.2ch.net/offreg/"
+  },
+  {
+    "name": "AAサロン",
+    "url": "http://toro.2ch.net/aasaloon/"
+  },
+  {
+    "name": "モナー",
+    "url": "http://toro.2ch.net/mona/"
+  },
+  {
+    "name": "ニダー",
+    "url": "http://engawa.2ch.net/nida/"
+  },
+  {
+    "name": "AA長編",
+    "url": "http://toro.2ch.net/aastory/"
+  },
+  {
+    "name": "マスコミ",
+    "url": "http://anago.2ch.net/mass/"
+  },
+  {
+    "name": "少年犯罪",
+    "url": "http://anago.2ch.net/youth/"
+  },
+  {
+    "name": "自然災害",
+    "url": "http://uni.2ch.net/disaster/"
+  },
+  {
+    "name": "消防救急防災",
+    "url": "http://anago.2ch.net/119/"
+  },
+  {
+    "name": "男性論女性論",
+    "url": "http://toro.2ch.net/gender/"
+  },
+  {
+    "name": "議員・選挙",
+    "url": "http://awabi.2ch.net/giin/"
+  },
+  {
+    "name": "政治家語録",
+    "url": "http://ikura.2ch.net/manifesto/"
+  },
+  {
+    "name": "警察",
+    "url": "http://uni.2ch.net/police/"
+  },
+  {
+    "name": "裁判・司法",
+    "url": "http://anago.2ch.net/court/"
+  },
+  {
+    "name": "裁判員制度",
+    "url": "http://engawa.2ch.net/saibanin/"
+  },
+  {
+    "name": "社会・世評",
+    "url": "http://uni.2ch.net/soc/"
+  },
+  {
+    "name": "環境・電力",
+    "url": "http://anago.2ch.net/atom/"
+  },
+  {
+    "name": "エネルギー",
+    "url": "http://uni.2ch.net/energy/"
+  },
+  {
+    "name": "河川・ダム等",
+    "url": "http://anago.2ch.net/river/"
+  },
+  {
+    "name": "運輸・交通",
+    "url": "http://uni.2ch.net/traf/"
+  },
+  {
+    "name": "道路・高速道路",
+    "url": "http://engawa.2ch.net/way/"
+  },
+  {
+    "name": "都市計画",
+    "url": "http://anago.2ch.net/develop/"
+  },
+  {
+    "name": "就職",
+    "url": "http://uni.2ch.net/recruit/"
+  },
+  {
+    "name": "転職",
+    "url": "http://kohada.2ch.net/job/"
+  },
+  {
+    "name": "ボランティア",
+    "url": "http://uni.2ch.net/volunteer/"
+  },
+  {
+    "name": "介護・福祉",
+    "url": "http://anago.2ch.net/welfare/"
+  },
+  {
+    "name": "地方自治知事",
+    "url": "http://uni.2ch.net/mayor/"
+  },
+  {
+    "name": "ふるさと納税",
+    "url": "http://engawa.2ch.net/ftax/"
+  },
+  {
+    "name": "自衛隊",
+    "url": "http://uni.2ch.net/jsdf/"
+  },
+  {
+    "name": "郵便・郵政",
+    "url": "http://toro.2ch.net/nenga/"
+  },
+  {
+    "name": "生涯学習",
+    "url": "http://engawa.2ch.net/lifework/"
+  },
+  {
+    "name": "ベンチャー",
+    "url": "http://uni.2ch.net/venture/"
+  },
+  {
+    "name": "経営学",
+    "url": "http://toro.2ch.net/manage/"
+  },
+  {
+    "name": "店舗運営",
+    "url": "http://engawa.2ch.net/management/"
+  },
+  {
+    "name": "賃貸不動産",
+    "url": "http://engawa.2ch.net/estate/"
+  },
+  {
+    "name": "公務員",
+    "url": "http://uni.2ch.net/koumu/"
+  },
+  {
+    "name": "法律勉強相談",
+    "url": "http://engawa.2ch.net/shikaku/"
+  },
+  {
+    "name": "資格全般",
+    "url": "http://ikura.2ch.net/lic/"
+  },
+  {
+    "name": "派遣業界",
+    "url": "http://engawa.2ch.net/haken/"
+  },
+  {
+    "name": "保険業界",
+    "url": "http://anago.2ch.net/hoken/"
+  },
+  {
+    "name": "税金経理会計",
+    "url": "http://toro.2ch.net/tax/"
+  },
+  {
+    "name": "会計全般試験",
+    "url": "http://kohada.2ch.net/exam/"
+  },
+  {
+    "name": "病院・医者",
+    "url": "http://anago.2ch.net/hosp/"
+  },
+  {
+    "name": "医療業界",
+    "url": "http://anago.2ch.net/bio/"
+  },
+  {
+    "name": "光通信",
+    "url": "http://anago.2ch.net/hikari/"
+  },
+  {
+    "name": "DTP・印刷",
+    "url": "http://engawa.2ch.net/dtp/"
+  },
+  {
+    "name": "アルバイト",
+    "url": "http://kohada.2ch.net/part/"
+  },
+  {
+    "name": "広告業界",
+    "url": "http://anago.2ch.net/koukoku/"
+  },
+  {
+    "name": "農林水産業",
+    "url": "http://anago.2ch.net/agri/"
+  },
+  {
+    "name": "建設住宅業界",
+    "url": "http://engawa.2ch.net/build/"
+  },
+  {
+    "name": "製造業界",
+    "url": "http://engawa.2ch.net/industry/"
+  },
+  {
+    "name": "ちくり裏事情",
+    "url": "http://awabi.2ch.net/company/"
+  },
+  {
+    "name": "防犯・詐欺対策",
+    "url": "http://uni.2ch.net/bouhan/"
+  },
+  {
+    "name": "架空請求・spam",
+    "url": "http://toro.2ch.net/antispam/"
+  },
+  {
+    "name": "薬・違法",
+    "url": "http://anago.2ch.net/ihou/"
+  },
+  {
+    "name": "万博・地方博",
+    "url": "http://ikura.2ch.net/expo/"
+  },
+  {
+    "name": "サブカル",
+    "url": "http://engawa.2ch.net/subcal/"
+  },
+  {
+    "name": "創作文芸",
+    "url": "http://toro.2ch.net/bun/"
+  },
+  {
+    "name": "創作発表",
+    "url": "http://engawa.2ch.net/mitemite/"
+  },
+  {
+    "name": "詩・ポエム",
+    "url": "http://toro.2ch.net/poem/"
+  },
+  {
+    "name": "名言・格言",
+    "url": "http://anago.2ch.net/rongo/"
+  },
+  {
+    "name": "映画一般・8mm",
+    "url": "http://awabi.2ch.net/movie/"
+  },
+  {
+    "name": "映画作品・人",
+    "url": "http://awabi.2ch.net/cinema/"
+  },
+  {
+    "name": "懐かし邦画",
+    "url": "http://uni.2ch.net/rmovie/"
+  },
+  {
+    "name": "懐かし洋画",
+    "url": "http://uni.2ch.net/kinema/"
+  },
+  {
+    "name": "オカルト",
+    "url": "http://toro.2ch.net/occult/"
+  },
+  {
+    "name": "超能力",
+    "url": "http://ikura.2ch.net/esp/"
+  },
+  {
+    "name": "特撮！",
+    "url": "http://toro.2ch.net/sfx/"
+  },
+  {
+    "name": "昭和特撮",
+    "url": "http://uni.2ch.net/rsfx/"
+  },
+  {
+    "name": "演劇・舞台役者",
+    "url": "http://awabi.2ch.net/drama/"
+  },
+  {
+    "name": "宝塚・四季",
+    "url": "http://awabi.2ch.net/siki/"
+  },
+  {
+    "name": "占い",
+    "url": "http://engawa.2ch.net/fortune/"
+  },
+  {
+    "name": "占術理論実践",
+    "url": "http://engawa.2ch.net/uranai/"
+  },
+  {
+    "name": "神社・仏閣",
+    "url": "http://ikura.2ch.net/kyoto/"
+  },
+  {
+    "name": "美術鑑賞",
+    "url": "http://awabi.2ch.net/gallery/"
+  },
+  {
+    "name": "伝統芸能",
+    "url": "http://awabi.2ch.net/rakugo/"
+  },
+  {
+    "name": "世界遺産",
+    "url": "http://anago.2ch.net/ruins/"
+  },
+  {
+    "name": "理系全般",
+    "url": "http://uni.2ch.net/rikei/"
+  },
+  {
+    "name": "物理",
+    "url": "http://uni.2ch.net/sci/"
+  },
+  {
+    "name": "生物",
+    "url": "http://uni.2ch.net/life/"
+  },
+  {
+    "name": "化学",
+    "url": "http://ikura.2ch.net/bake/"
+  },
+  {
+    "name": "機械・工学",
+    "url": "http://ikura.2ch.net/kikai/"
+  },
+  {
+    "name": "電気・電子",
+    "url": "http://uni.2ch.net/denki/"
+  },
+  {
+    "name": "ロボット技術",
+    "url": "http://uni.2ch.net/robot/"
+  },
+  {
+    "name": "情報システム",
+    "url": "http://ikura.2ch.net/infosys/"
+  },
+  {
+    "name": "情報学",
+    "url": "http://uni.2ch.net/informatics/"
+  },
+  {
+    "name": "シミュレート",
+    "url": "http://ikura.2ch.net/sim/"
+  },
+  {
+    "name": "農学",
+    "url": "http://ikura.2ch.net/nougaku/"
+  },
+  {
+    "name": "天文・気象",
+    "url": "http://ikura.2ch.net/sky/"
+  },
+  {
+    "name": "宇宙",
+    "url": "http://uni.2ch.net/galileo/"
+  },
+  {
+    "name": "医歯薬看護",
+    "url": "http://engawa.2ch.net/doctor/"
+  },
+  {
+    "name": "東洋医学",
+    "url": "http://uni.2ch.net/kampo/"
+  },
+  {
+    "name": "数学",
+    "url": "http://uni.2ch.net/math/"
+  },
+  {
+    "name": "土木・建築",
+    "url": "http://ikura.2ch.net/doboku/"
+  },
+  {
+    "name": "材料物性",
+    "url": "http://ikura.2ch.net/material/"
+  },
+  {
+    "name": "航空・船舶",
+    "url": "http://toro.2ch.net/space/"
+  },
+  {
+    "name": "未来技術",
+    "url": "http://uni.2ch.net/future/"
+  },
+  {
+    "name": "野生生物",
+    "url": "http://uni.2ch.net/wild/"
+  },
+  {
+    "name": "心理学",
+    "url": "http://awabi.2ch.net/psycho/"
+  },
+  {
+    "name": "言語学",
+    "url": "http://awabi.2ch.net/gengo/"
+  },
+  {
+    "name": "方言",
+    "url": "http://anago.2ch.net/dialect/"
+  },
+  {
+    "name": "教育学",
+    "url": "http://awabi.2ch.net/pedagogy/"
+  },
+  {
+    "name": "社会学",
+    "url": "http://awabi.2ch.net/sociology/"
+  },
+  {
+    "name": "経済学",
+    "url": "http://awabi.2ch.net/economics/"
+  },
+  {
+    "name": "文学",
+    "url": "http://toro.2ch.net/book/"
+  },
+  {
+    "name": "詩文学",
+    "url": "http://toro.2ch.net/poetics/"
+  },
+  {
+    "name": "日本史",
+    "url": "http://awabi.2ch.net/history/"
+  },
+  {
+    "name": "日本近代史",
+    "url": "http://awabi.2ch.net/history2/"
+  },
+  {
+    "name": "世界史",
+    "url": "http://awabi.2ch.net/whis/"
+  },
+  {
+    "name": "考古学",
+    "url": "http://awabi.2ch.net/archeology/"
+  },
+  {
+    "name": "民俗・神話学",
+    "url": "http://awabi.2ch.net/min/"
+  },
+  {
+    "name": "古文・漢文",
+    "url": "http://awabi.2ch.net/kobun/"
+  },
+  {
+    "name": "ENGLISH",
+    "url": "http://awabi.2ch.net/english/"
+  },
+  {
+    "name": "アメリカ",
+    "url": "http://awabi.2ch.net/usa/"
+  },
+  {
+    "name": "ハングル",
+    "url": "http://awabi.2ch.net/korea/"
+  },
+  {
+    "name": "中国",
+    "url": "http://awabi.2ch.net/china/"
+  },
+  {
+    "name": "台湾",
+    "url": "http://awabi.2ch.net/taiwan/"
+  },
+  {
+    "name": "地理・人類学",
+    "url": "http://awabi.2ch.net/geo/"
+  },
+  {
+    "name": "地理お国自慢",
+    "url": "http://ikura.2ch.net/chiri/"
+  },
+  {
+    "name": "外国語",
+    "url": "http://awabi.2ch.net/gogaku/"
+  },
+  {
+    "name": "芸術デザイン",
+    "url": "http://awabi.2ch.net/art/"
+  },
+  {
+    "name": "哲学",
+    "url": "http://awabi.2ch.net/philo/"
+  },
+  {
+    "name": "法学",
+    "url": "http://awabi.2ch.net/jurisp/"
+  },
+  {
+    "name": "家電製品",
+    "url": "http://awabi.2ch.net/kaden/"
+  },
+  {
+    "name": "ポータブルAV",
+    "url": "http://ikura.2ch.net/wm/"
+  },
+  {
+    "name": "ビデオカメラ",
+    "url": "http://ikura.2ch.net/vcamera/"
+  },
+  {
+    "name": "調理家電",
+    "url": "http://ikura.2ch.net/bakery/"
+  },
+  {
+    "name": "シャワートイレ",
+    "url": "http://ikura.2ch.net/toilet/"
+  },
+  {
+    "name": "ソニー",
+    "url": "http://awabi.2ch.net/sony/"
+  },
+  {
+    "name": "Apple",
+    "url": "http://engawa.2ch.net/apple2/"
+  },
+  {
+    "name": "携帯・ＰＨＳ",
+    "url": "http://awabi.2ch.net/phs/"
+  },
+  {
+    "name": "携帯機種",
+    "url": "http://awabi.2ch.net/keitai/"
+  },
+  {
+    "name": "スマートフォン",
+    "url": "http://anago.2ch.net/smartphone/"
+  },
+  {
+    "name": "iPhone",
+    "url": "http://anago.2ch.net/iPhone/"
+  },
+  {
+    "name": "Android",
+    "url": "http://anago.2ch.net/android/"
+  },
+  {
+    "name": "携帯コンテンツ",
+    "url": "http://awabi.2ch.net/chakumelo/"
+  },
+  {
+    "name": "携帯電話ゲー",
+    "url": "http://hayabusa3.2ch.net/appli/"
+  },
+  {
+    "name": "スマホアプリ",
+    "url": "http://anago.2ch.net/applism/"
+  },
+  {
+    "name": "デジタルモノ",
+    "url": "http://awabi.2ch.net/dgoods/"
+  },
+  {
+    "name": "カメラ",
+    "url": "http://awabi.2ch.net/camera/"
+  },
+  {
+    "name": "デジカメ",
+    "url": "http://toro.2ch.net/dcamera/"
+  },
+  {
+    "name": "AV機器",
+    "url": "http://toro.2ch.net/av/"
+  },
+  {
+    "name": "ピュアAU",
+    "url": "http://awabi.2ch.net/pav/"
+  },
+  {
+    "name": "政治",
+    "url": "http://toro.2ch.net/seiji/"
+  },
+  {
+    "name": "外交政策",
+    "url": "http://anago.2ch.net/diplomacy/"
+  },
+  {
+    "name": "交通政策",
+    "url": "http://anago.2ch.net/trafficpolicy/"
+  },
+  {
+    "name": "経済",
+    "url": "http://kohada.2ch.net/eco/"
+  },
+  {
+    "name": "株式",
+    "url": "http://anago.2ch.net/stock/"
+  },
+  {
+    "name": "株個別銘柄",
+    "url": "http://engawa.2ch.net/stockb/"
+  },
+  {
+    "name": "投資一般",
+    "url": "http://kohada.2ch.net/market/"
+  },
+  {
+    "name": "市況1",
+    "url": "http://hayabusa3.2ch.net/livemarket1/"
+  },
+  {
+    "name": "市況2",
+    "url": "http://hayabusa3.2ch.net/livemarket2/"
+  },
+  {
+    "name": "先物",
+    "url": "http://engawa.2ch.net/deal/"
+  },
+  {
+    "name": "創価・公明",
+    "url": "http://anago.2ch.net/koumei/"
+  },
+  {
+    "name": "共産党",
+    "url": "http://toro.2ch.net/kyousan/"
+  },
+  {
+    "name": "政治思想",
+    "url": "http://anago.2ch.net/sisou/"
+  },
+  {
+    "name": "ゴーマニズム",
+    "url": "http://anago.2ch.net/kova/"
+  },
+  {
+    "name": "食べ物",
+    "url": "http://ikura.2ch.net/food/"
+  },
+  {
+    "name": "お菓子",
+    "url": "http://ikura.2ch.net/candy/"
+  },
+  {
+    "name": "ソフトドリンク",
+    "url": "http://ikura.2ch.net/juice/"
+  },
+  {
+    "name": "お茶・珈琲",
+    "url": "http://ikura.2ch.net/pot/"
+  },
+  {
+    "name": "料理",
+    "url": "http://ikura.2ch.net/cook/"
+  },
+  {
+    "name": "米・米加工品",
+    "url": "http://anago.2ch.net/okome/"
+  },
+  {
+    "name": "野菜・果物",
+    "url": "http://engawa.2ch.net/yasai/"
+  },
+  {
+    "name": "きのこ",
+    "url": "http://uni.2ch.net/kinoko/"
+  },
+  {
+    "name": "調味料",
+    "url": "http://ikura.2ch.net/salt/"
+  },
+  {
+    "name": "ラーメン",
+    "url": "http://toro.2ch.net/ramen/"
+  },
+  {
+    "name": "インスタント麺",
+    "url": "http://ikura.2ch.net/nissin/"
+  },
+  {
+    "name": "そば・うどん",
+    "url": "http://ikura.2ch.net/jnoodle/"
+  },
+  {
+    "name": "おすし",
+    "url": "http://ikura.2ch.net/sushi/"
+  },
+  {
+    "name": "丼",
+    "url": "http://ikura.2ch.net/don/"
+  },
+  {
+    "name": "カレー",
+    "url": "http://ikura.2ch.net/curry/"
+  },
+  {
+    "name": "パン",
+    "url": "http://ikura.2ch.net/bread/"
+  },
+  {
+    "name": "パスタ・ピザ",
+    "url": "http://ikura.2ch.net/pasta/"
+  },
+  {
+    "name": "焼肉",
+    "url": "http://ikura.2ch.net/kbbq/"
+  },
+  {
+    "name": "たこ焼き等",
+    "url": "http://ikura.2ch.net/konamono/"
+  },
+  {
+    "name": "珍味",
+    "url": "http://ikura.2ch.net/toba/"
+  },
+  {
+    "name": "グルメ外食",
+    "url": "http://ikura.2ch.net/gurume/"
+  },
+  {
+    "name": "ファミレス",
+    "url": "http://ikura.2ch.net/famires/"
+  },
+  {
+    "name": "Ｂ級グルメ",
+    "url": "http://ikura.2ch.net/jfoods/"
+  },
+  {
+    "name": "弁当・駅弁",
+    "url": "http://ikura.2ch.net/bento/"
+  },
+  {
+    "name": "お酒・Bar",
+    "url": "http://toro.2ch.net/sake/"
+  },
+  {
+    "name": "ワイン",
+    "url": "http://ikura.2ch.net/wine/"
+  },
+  {
+    "name": "居酒屋",
+    "url": "http://ikura.2ch.net/drunk/"
+  },
+  {
+    "name": "レシピ",
+    "url": "http://ikura.2ch.net/recipe/"
+  },
+  {
+    "name": "製菓・製パン",
+    "url": "http://ikura.2ch.net/patissier/"
+  },
+  {
+    "name": "生活サロン",
+    "url": "http://uni.2ch.net/lifesaloon/"
+  },
+  {
+    "name": "生活全般",
+    "url": "http://kohada.2ch.net/kankon/"
+  },
+  {
+    "name": "その日暮らし",
+    "url": "http://uni.2ch.net/okiraku/"
+  },
+  {
+    "name": "一人暮らし",
+    "url": "http://uni.2ch.net/homealone/"
+  },
+  {
+    "name": "田舎暮らし",
+    "url": "http://uni.2ch.net/countrylife/"
+  },
+  {
+    "name": "借金生活",
+    "url": "http://anago.2ch.net/debt/"
+  },
+  {
+    "name": "入院生活",
+    "url": "http://uni.2ch.net/inpatient/"
+  },
+  {
+    "name": "スポーツクラブ",
+    "url": "http://uni.2ch.net/sportsclub/"
+  },
+  {
+    "name": "お風呂・銭湯",
+    "url": "http://awabi.2ch.net/bath/"
+  },
+  {
+    "name": "記念日",
+    "url": "http://uni.2ch.net/anniversary/"
+  },
+  {
+    "name": "冠婚葬祭",
+    "url": "http://uni.2ch.net/sousai/"
+  },
+  {
+    "name": "育児",
+    "url": "http://toro.2ch.net/baby/"
+  },
+  {
+    "name": "家具",
+    "url": "http://uni.2ch.net/kagu/"
+  },
+  {
+    "name": "DIY",
+    "url": "http://awabi.2ch.net/diy/"
+  },
+  {
+    "name": "通販・買い物",
+    "url": "http://kohada.2ch.net/shop/"
+  },
+  {
+    "name": "家電等量販店",
+    "url": "http://anago.2ch.net/hcenter/"
+  },
+  {
+    "name": "中古リサイクル",
+    "url": "http://engawa.2ch.net/used/"
+  },
+  {
+    "name": "レンタル",
+    "url": "http://anago.2ch.net/rental/"
+  },
+  {
+    "name": "流行",
+    "url": "http://uni.2ch.net/trend/"
+  },
+  {
+    "name": "Walker+",
+    "url": "http://anago.2ch.net/ticketplus/"
+  },
+  {
+    "name": "モデル",
+    "url": "http://uni.2ch.net/model/"
+  },
+  {
+    "name": "ファッション",
+    "url": "http://toro.2ch.net/fashion/"
+  },
+  {
+    "name": "下着",
+    "url": "http://engawa.2ch.net/underwear/"
+  },
+  {
+    "name": "靴",
+    "url": "http://uni.2ch.net/shoes/"
+  },
+  {
+    "name": "化粧",
+    "url": "http://uni.2ch.net/female/"
+  },
+  {
+    "name": "美容",
+    "url": "http://kohada.2ch.net/diet/"
+  },
+  {
+    "name": "男の美容・化粧",
+    "url": "http://awabi.2ch.net/mensbeauty/"
+  },
+  {
+    "name": "香水芳香消臭",
+    "url": "http://anago.2ch.net/aroma/"
+  },
+  {
+    "name": "美容整形",
+    "url": "http://uni.2ch.net/seikei/"
+  },
+  {
+    "name": "ダイエット",
+    "url": "http://uni.2ch.net/shapeup/"
+  },
+  {
+    "name": "一般海外生活",
+    "url": "http://uni.2ch.net/world/"
+  },
+  {
+    "name": "北米海外生活",
+    "url": "http://uni.2ch.net/northa/"
+  },
+  {
+    "name": "クレジット",
+    "url": "http://uni.2ch.net/credit/"
+  },
+  {
+    "name": "ポイント・マイル",
+    "url": "http://awabi.2ch.net/point/"
+  },
+  {
+    "name": "３０代",
+    "url": "http://ikura.2ch.net/cafe30/"
+  },
+  {
+    "name": "４０代",
+    "url": "http://toro.2ch.net/cafe40/"
+  },
+  {
+    "name": "５０代以上",
+    "url": "http://ikura.2ch.net/cafe50/"
+  },
+  {
+    "name": "６０歳以上",
+    "url": "http://anago.2ch.net/cafe60/"
+  },
+  {
+    "name": "家庭",
+    "url": "http://awabi.2ch.net/live/"
+  },
+  {
+    "name": "掃除全般",
+    "url": "http://uni.2ch.net/souji/"
+  },
+  {
+    "name": "害虫害獣対策",
+    "url": "http://uni.2ch.net/goki/"
+  },
+  {
+    "name": "放射能",
+    "url": "http://uni.2ch.net/radiation/"
+  },
+  {
+    "name": "ドケチ",
+    "url": "http://engawa.2ch.net/kechi2/"
+  },
+  {
+    "name": "懸賞",
+    "url": "http://uni.2ch.net/chance/"
+  },
+  {
+    "name": "たばこ",
+    "url": "http://uni.2ch.net/cigaret/"
+  },
+  {
+    "name": "めがね",
+    "url": "http://uni.2ch.net/megane/"
+  },
+  {
+    "name": "マイライン",
+    "url": "http://uni.2ch.net/yuusen/"
+  },
+  {
+    "name": "コンビニ",
+    "url": "http://uni.2ch.net/conv/"
+  },
+  {
+    "name": "バーゲン",
+    "url": "http://uni.2ch.net/sale/"
+  },
+  {
+    "name": "文房具",
+    "url": "http://awabi.2ch.net/stationery/"
+  },
+  {
+    "name": "新シャア専用",
+    "url": "http://toro.2ch.net/shar/"
+  },
+  {
+    "name": "旧シャア専用",
+    "url": "http://kohada.2ch.net/x3/"
+  },
+  {
+    "name": "電波・お花畑",
+    "url": "http://ikura.2ch.net/denpa/"
+  },
+  {
+    "name": "お笑い小咄",
+    "url": "http://anago.2ch.net/owarai/"
+  },
+  {
+    "name": "同人ノウハウ",
+    "url": "http://kohada.2ch.net/2chbook/"
+  },
+  {
+    "name": "噂話",
+    "url": "http://kohada.2ch.net/uwasa/"
+  },
+  {
+    "name": "キャラネタ",
+    "url": "http://kohada.2ch.net/charaneta/"
+  },
+  {
+    "name": "なりきりネタ",
+    "url": "http://kohada.2ch.net/charaneta2/"
+  },
+  {
+    "name": "マスコットキャラ",
+    "url": "http://ikura.2ch.net/mascot/"
+  },
+  {
+    "name": "恋愛サロン",
+    "url": "http://toro.2ch.net/lovesaloon/"
+  },
+  {
+    "name": "カップル",
+    "url": "http://toro.2ch.net/ex/"
+  },
+  {
+    "name": "×１",
+    "url": "http://uni.2ch.net/x1/"
+  },
+  {
+    "name": "同性愛サロン",
+    "url": "http://kohada.2ch.net/gaysaloon/"
+  },
+  {
+    "name": "のほほんダメ",
+    "url": "http://engawa.2ch.net/nohodame/"
+  },
+  {
+    "name": "無職・だめ",
+    "url": "http://kohada.2ch.net/dame/"
+  },
+  {
+    "name": "負け組",
+    "url": "http://uni.2ch.net/loser/"
+  },
+  {
+    "name": "ヒッキー",
+    "url": "http://ikura.2ch.net/hikky/"
+  },
+  {
+    "name": "メンヘルサロン",
+    "url": "http://toro.2ch.net/mental/"
+  },
+  {
+    "name": "独身貴族",
+    "url": "http://ikura.2ch.net/single/"
+  },
+  {
+    "name": "女性",
+    "url": "http://engawa.2ch.net/wom/"
+  },
+  {
+    "name": "独身女性限定",
+    "url": "http://engawa.2ch.net/sfe/"
+  },
+  {
+    "name": "もてない女",
+    "url": "http://kohada.2ch.net/wmotenai/"
+  },
+  {
+    "name": "既婚女性",
+    "url": "http://ikura.2ch.net/ms/"
+  },
+  {
+    "name": "独身男性",
+    "url": "http://awabi.2ch.net/male/"
+  },
+  {
+    "name": "もてたい男",
+    "url": "http://ikura.2ch.net/motetai/"
+  },
+  {
+    "name": "モテない男性",
+    "url": "http://toro.2ch.net/motenai/"
+  },
+  {
+    "name": "孤独な男性",
+    "url": "http://uni.2ch.net/alone/"
+  },
+  {
+    "name": "既婚男性",
+    "url": "http://engawa.2ch.net/tomorrow/"
+  },
+  {
+    "name": "リーマン",
+    "url": "http://kohada.2ch.net/employee/"
+  },
+  {
+    "name": "大学生活",
+    "url": "http://ikura.2ch.net/campus/"
+  },
+  {
+    "name": "大学学部・研究",
+    "url": "http://uni.2ch.net/student/"
+  },
+  {
+    "name": "おたく",
+    "url": "http://engawa.2ch.net/otaku/"
+  },
+  {
+    "name": "年代別",
+    "url": "http://ikura.2ch.net/nendai/"
+  },
+  {
+    "name": "セピア",
+    "url": "http://uni.2ch.net/sepia/"
+  },
+  {
+    "name": "駄洒落",
+    "url": "http://kohada.2ch.net/gag/"
+  },
+  {
+    "name": "しりとり",
+    "url": "http://kohada.2ch.net/575/"
+  },
+  {
+    "name": "五七五・短歌",
+    "url": "http://kohada.2ch.net/tanka/"
+  },
+  {
+    "name": "アウトロー",
+    "url": "http://kohada.2ch.net/4649/"
+  },
+  {
+    "name": "実況headline",
+    "url": "http://headline.2ch.net/bbylive/"
+  },
+  {
+    "name": "テレビ番組欄",
+    "url": "http://epg.2ch.net/tv2chwiki/"
+  },
+  {
+    "name": "なんでも実況S",
+    "url": "http://hayabusa.2ch.net/livesaturn/"
+  },
+  {
+    "name": "なんでも実況V",
+    "url": "http://hayabusa.2ch.net/livevenus/"
+  },
+  {
+    "name": "なんでも実況J",
+    "url": "http://hayabusa.2ch.net/livejupiter/"
+  },
+  {
+    "name": "なんでも実況U",
+    "url": "http://kohada.2ch.net/liveuranus/"
+  },
+  {
+    "name": "実況ch",
+    "url": "http://hayabusa.2ch.net/endless/"
+  },
+  {
+    "name": "番組ch",
+    "url": "http://hayabusa2.2ch.net/weekly/"
+  },
+  {
+    "name": "番組ch(西日本)",
+    "url": "http://hayabusa2.2ch.net/livewkwest/"
+  },
+  {
+    "name": "番組ch(NHK)",
+    "url": "http://hayabusa2.2ch.net/livenhk/"
+  },
+  {
+    "name": "番組ch(教育)",
+    "url": "http://hayabusa2.2ch.net/liveetv/"
+  },
+  {
+    "name": "番組ch(NTV)",
+    "url": "http://hayabusa2.2ch.net/liventv/"
+  },
+  {
+    "name": "番組ch(TBS)",
+    "url": "http://hayabusa2.2ch.net/livetbs/"
+  },
+  {
+    "name": "番組ch(フジ)",
+    "url": "http://hayabusa2.2ch.net/livecx/"
+  },
+  {
+    "name": "番組ch(朝日)",
+    "url": "http://hayabusa2.2ch.net/liveanb/"
+  },
+  {
+    "name": "番組ch(TX)",
+    "url": "http://hayabusa2.2ch.net/livetx/"
+  },
+  {
+    "name": "BS実況(NHK)",
+    "url": "http://hayabusa2.2ch.net/livebs/"
+  },
+  {
+    "name": "BS実況(無料)",
+    "url": "http://hayabusa.2ch.net/livebs2/"
+  },
+  {
+    "name": "BS実況(有料)",
+    "url": "http://hayabusa2.2ch.net/livewowow/"
+  },
+  {
+    "name": "スカパー実況",
+    "url": "http://hayabusa2.2ch.net/liveskyp/"
+  },
+  {
+    "name": "ラジオ実況",
+    "url": "http://hayabusa2.2ch.net/liveradio/"
+  },
+  {
+    "name": "アニメ特撮実況",
+    "url": "http://hayabusa.2ch.net/liveanime/"
+  },
+  {
+    "name": "議会選挙実況",
+    "url": "http://hayabusa.2ch.net/kokkai/"
+  },
+  {
+    "name": "スポーツch",
+    "url": "http://hayabusa.2ch.net/dome/"
+  },
+  {
+    "name": "野球ch",
+    "url": "http://hayabusa.2ch.net/livebase/"
+  },
+  {
+    "name": "サッカーch",
+    "url": "http://hayabusa.2ch.net/livefoot/"
+  },
+  {
+    "name": "五輪実況(女)",
+    "url": "http://hayabusa.2ch.net/oonna/"
+  },
+  {
+    "name": "五輪実況(男)",
+    "url": "http://hayabusa.2ch.net/ootoko/"
+  },
+  {
+    "name": "芸能ch",
+    "url": "http://hayabusa.2ch.net/dancesite/"
+  },
+  {
+    "name": "お祭りch",
+    "url": "http://hayabusa.2ch.net/festival/"
+  },
+  {
+    "name": "ニュース実況+",
+    "url": "http://kohada.2ch.net/liveplus/"
+  },
+  {
+    "name": "streaming実況",
+    "url": "http://uni.2ch.net/jasmine/"
+  },
+  {
+    "name": "市況1",
+    "url": "http://hayabusa3.2ch.net/livemarket1/"
+  },
+  {
+    "name": "教育・先生",
+    "url": "http://engawa.2ch.net/edu/"
+  },
+  {
+    "name": "大学受験サロン",
+    "url": "http://kohada.2ch.net/jsaloon/"
+  },
+  {
+    "name": "大学受験",
+    "url": "http://kohada.2ch.net/kouri/"
+  },
+  {
+    "name": "学習塾・予備校",
+    "url": "http://engawa.2ch.net/juku/"
+  },
+  {
+    "name": "お受験",
+    "url": "http://engawa.2ch.net/ojyuken/"
+  },
+  {
+    "name": "専門学校",
+    "url": "http://engawa.2ch.net/senmon/"
+  },
+  {
+    "name": "美術系学校",
+    "url": "http://engawa.2ch.net/design/"
+  },
+  {
+    "name": "音楽系学校",
+    "url": "http://engawa.2ch.net/musicology/"
+  },
+  {
+    "name": "趣味一般",
+    "url": "http://awabi.2ch.net/hobby/"
+  },
+  {
+    "name": "手品・曲芸",
+    "url": "http://ikura.2ch.net/magic/"
+  },
+  {
+    "name": "トランプ",
+    "url": "http://awabi.2ch.net/card/"
+  },
+  {
+    "name": "パズル",
+    "url": "http://ikura.2ch.net/puzzle/"
+  },
+  {
+    "name": "ハンドクラフト",
+    "url": "http://awabi.2ch.net/craft/"
+  },
+  {
+    "name": "おもちゃ",
+    "url": "http://toro.2ch.net/toy/"
+  },
+  {
+    "name": "ゾイド",
+    "url": "http://awabi.2ch.net/zoid/"
+  },
+  {
+    "name": "時計・小物",
+    "url": "http://awabi.2ch.net/watch/"
+  },
+  {
+    "name": "煙草銘柄・器具",
+    "url": "http://awabi.2ch.net/smoking/"
+  },
+  {
+    "name": "刃物",
+    "url": "http://ikura.2ch.net/knife/"
+  },
+  {
+    "name": "お人形",
+    "url": "http://awabi.2ch.net/doll/"
+  },
+  {
+    "name": "園芸",
+    "url": "http://awabi.2ch.net/engei/"
+  },
+  {
+    "name": "犬猫大好き",
+    "url": "http://engawa.2ch.net/dog/"
+  },
+  {
+    "name": "ペット大好き",
+    "url": "http://engawa.2ch.net/pet/"
+  },
+  {
+    "name": "アクアリウム",
+    "url": "http://awabi.2ch.net/aquarium/"
+  },
+  {
+    "name": "日本の淡水魚",
+    "url": "http://ikura.2ch.net/goldenfish/"
+  },
+  {
+    "name": "昆虫・節足動物",
+    "url": "http://ikura.2ch.net/insect/"
+  },
+  {
+    "name": "生き物苦手",
+    "url": "http://ikura.2ch.net/cat/"
+  },
+  {
+    "name": "バイク",
+    "url": "http://anago.2ch.net/bike/"
+  },
+  {
+    "name": "車",
+    "url": "http://kohada.2ch.net/car/"
+  },
+  {
+    "name": "軽自動車",
+    "url": "http://engawa.2ch.net/kcar/"
+  },
+  {
+    "name": "車種・メーカー",
+    "url": "http://kohada.2ch.net/auto/"
+  },
+  {
+    "name": "中古車",
+    "url": "http://engawa.2ch.net/usedcar/"
+  },
+  {
+    "name": "大型・特殊車両",
+    "url": "http://engawa.2ch.net/truck/"
+  },
+  {
+    "name": "軍事",
+    "url": "http://toro.2ch.net/army/"
+  },
+  {
+    "name": "無線",
+    "url": "http://awabi.2ch.net/radio/"
+  },
+  {
+    "name": "鉄道総合",
+    "url": "http://toro.2ch.net/train/"
+  },
+  {
+    "name": "鉄道路線・車両",
+    "url": "http://toro.2ch.net/rail/"
+  },
+  {
+    "name": "鉄道懐かし",
+    "url": "http://engawa.2ch.net/jnr/"
+  },
+  {
+    "name": "鉄道(海外)",
+    "url": "http://ikura.2ch.net/ice/"
+  },
+  {
+    "name": "鉄道模型",
+    "url": "http://ikura.2ch.net/gage/"
+  },
+  {
+    "name": "バス・バス路線",
+    "url": "http://engawa.2ch.net/bus/"
+  },
+  {
+    "name": "エアライン",
+    "url": "http://awabi.2ch.net/airline/"
+  },
+  {
+    "name": "模型・プラモ",
+    "url": "http://awabi.2ch.net/mokei/"
+  },
+  {
+    "name": "RC（ラジコン)",
+    "url": "http://ikura.2ch.net/radiocontrol/"
+  },
+  {
+    "name": "サバゲー",
+    "url": "http://awabi.2ch.net/gun/"
+  },
+  {
+    "name": "花火",
+    "url": "http://ikura.2ch.net/fireworks/"
+  },
+  {
+    "name": "三国志・戦国",
+    "url": "http://engawa.2ch.net/warhis/"
+  },
+  {
+    "name": "中国英雄",
+    "url": "http://ikura.2ch.net/chinahero/"
+  },
+  {
+    "name": "戦国時代",
+    "url": "http://ikura.2ch.net/sengoku/"
+  },
+  {
+    "name": "歴史難民",
+    "url": "http://ikura.2ch.net/nanminhis/"
+  },
+  {
+    "name": "ダンス",
+    "url": "http://awabi.2ch.net/dance/"
+  },
+  {
+    "name": "野鳥観察",
+    "url": "http://awabi.2ch.net/bird/"
+  },
+  {
+    "name": "コレクション",
+    "url": "http://awabi.2ch.net/collect/"
+  },
+  {
+    "name": "スポーツサロン",
+    "url": "http://engawa.2ch.net/sposaloon/"
+  },
+  {
+    "name": "スポーツ",
+    "url": "http://engawa.2ch.net/sports/"
+  },
+  {
+    "name": "懐かしスポーツ",
+    "url": "http://engawa.2ch.net/rsports/"
+  },
+  {
+    "name": "スポーツ施設",
+    "url": "http://engawa.2ch.net/stadium/"
+  },
+  {
+    "name": "陸上競技",
+    "url": "http://kohada.2ch.net/athletics/"
+  },
+  {
+    "name": "体操・新体操",
+    "url": "http://engawa.2ch.net/gymnastics/"
+  },
+  {
+    "name": "ウエイトトレ",
+    "url": "http://engawa.2ch.net/muscle/"
+  },
+  {
+    "name": "運動音痴",
+    "url": "http://engawa.2ch.net/noroma/"
+  },
+  {
+    "name": "冬スポーツ",
+    "url": "http://engawa.2ch.net/wsports/"
+  },
+  {
+    "name": "スキースノボ",
+    "url": "http://engawa.2ch.net/ski/"
+  },
+  {
+    "name": "スケート",
+    "url": "http://toro.2ch.net/skate/"
+  },
+  {
+    "name": "水泳",
+    "url": "http://engawa.2ch.net/swim/"
+  },
+  {
+    "name": "マリンスポーツ",
+    "url": "http://engawa.2ch.net/msports/"
+  },
+  {
+    "name": "船スポーツ",
+    "url": "http://engawa.2ch.net/boat/"
+  },
+  {
+    "name": "空スポーツ",
+    "url": "http://engawa.2ch.net/birdman/"
+  },
+  {
+    "name": "釣り",
+    "url": "http://kohada.2ch.net/fish/"
+  },
+  {
+    "name": "バス釣り",
+    "url": "http://engawa.2ch.net/bass/"
+  },
+  {
+    "name": "自転車",
+    "url": "http://kohada.2ch.net/bicycle/"
+  },
+  {
+    "name": "乗馬・馬術",
+    "url": "http://engawa.2ch.net/equestrian/"
+  },
+  {
+    "name": "ﾓｰﾀｰｽﾎﾟｰﾂ",
+    "url": "http://engawa.2ch.net/f1/"
+  },
+  {
+    "name": "オリンピック",
+    "url": "http://engawa.2ch.net/olympic/"
+  },
+  {
+    "name": "的スポーツ",
+    "url": "http://engawa.2ch.net/bullseye/"
+  },
+  {
+    "name": "公園スポーツ",
+    "url": "http://engawa.2ch.net/parksports/"
+  },
+  {
+    "name": "アメスポ",
+    "url": "http://engawa.2ch.net/amespo/"
+  },
+  {
+    "name": "チア",
+    "url": "http://engawa.2ch.net/cheerleading/"
+  },
+  {
+    "name": "プロ野球",
+    "url": "http://uni.2ch.net/base/"
+  },
+  {
+    "name": "球界改革議論",
+    "url": "http://kohada.2ch.net/npb/"
+  },
+  {
+    "name": "野球殿堂",
+    "url": "http://uni.2ch.net/meikyu/"
+  },
+  {
+    "name": "野球総合",
+    "url": "http://awabi.2ch.net/mlb/"
+  },
+  {
+    "name": "高校野球",
+    "url": "http://kohada.2ch.net/hsb/"
+  },
+  {
+    "name": "アンチ球団",
+    "url": "http://kohada.2ch.net/kyozin/"
+  },
+  {
+    "name": "国内サッカー",
+    "url": "http://ikura.2ch.net/soccer/"
+  },
+  {
+    "name": "日本代表蹴球",
+    "url": "http://kohada.2ch.net/eleven/"
+  },
+  {
+    "name": "ワールドカップ",
+    "url": "http://uni.2ch.net/wc/"
+  },
+  {
+    "name": "海外サッカー",
+    "url": "http://ikura.2ch.net/football/"
+  },
+  {
+    "name": "バスケット",
+    "url": "http://kohada.2ch.net/basket/"
+  },
+  {
+    "name": "テニス",
+    "url": "http://engawa.2ch.net/tennis/"
+  },
+  {
+    "name": "バレーボール",
+    "url": "http://engawa.2ch.net/volley/"
+  },
+  {
+    "name": "ラグビー",
+    "url": "http://engawa.2ch.net/ovalball/"
+  },
+  {
+    "name": "卓球",
+    "url": "http://engawa.2ch.net/pingpong/"
+  },
+  {
+    "name": "ボウリング",
+    "url": "http://engawa.2ch.net/gutter/"
+  },
+  {
+    "name": "ゴルフ",
+    "url": "http://engawa.2ch.net/golf/"
+  },
+  {
+    "name": "ビリヤード",
+    "url": "http://engawa.2ch.net/billiards/"
+  },
+  {
+    "name": "格闘技",
+    "url": "http://kohada.2ch.net/k1/"
+  },
+  {
+    "name": "プロレス",
+    "url": "http://kohada.2ch.net/wres/"
+  },
+  {
+    "name": "武道・武芸",
+    "url": "http://engawa.2ch.net/budou/"
+  },
+  {
+    "name": "ボクシング",
+    "url": "http://kohada.2ch.net/boxing/"
+  },
+  {
+    "name": "相撲",
+    "url": "http://engawa.2ch.net/sumou/"
+  },
+  {
+    "name": "海外旅行",
+    "url": "http://ikura.2ch.net/oversea/"
+  },
+  {
+    "name": "危ない海外",
+    "url": "http://anago.2ch.net/21oversea/"
+  },
+  {
+    "name": "国内旅行",
+    "url": "http://ikura.2ch.net/travel/"
+  },
+  {
+    "name": "ホテル･旅館",
+    "url": "http://ikura.2ch.net/hotel/"
+  },
+  {
+    "name": "土産物・特産物",
+    "url": "http://ikura.2ch.net/localfoods/"
+  },
+  {
+    "name": "トロピカル",
+    "url": "http://ikura.2ch.net/tropical/"
+  },
+  {
+    "name": "温泉",
+    "url": "http://ikura.2ch.net/onsen/"
+  },
+  {
+    "name": "遊園地",
+    "url": "http://toro.2ch.net/park/"
+  },
+  {
+    "name": "動物園・水族館",
+    "url": "http://ikura.2ch.net/zoo/"
+  },
+  {
+    "name": "博物館・美術館",
+    "url": "http://ikura.2ch.net/museum/"
+  },
+  {
+    "name": "テレビサロン",
+    "url": "http://anago.2ch.net/tvsaloon/"
+  },
+  {
+    "name": "年末年始番組",
+    "url": "http://uni.2ch.net/kouhaku/"
+  },
+  {
+    "name": "テレビ番組",
+    "url": "http://toro.2ch.net/tv/"
+  },
+  {
+    "name": "懐かしテレビ",
+    "url": "http://ikura.2ch.net/natsutv/"
+  },
+  {
+    "name": "テレビドラマ",
+    "url": "http://awabi.2ch.net/tvd/"
+  },
+  {
+    "name": "大河ドラマ",
+    "url": "http://kohada.2ch.net/nhkdrama/"
+  },
+  {
+    "name": "懐かしドラマ",
+    "url": "http://ikura.2ch.net/natsudora/"
+  },
+  {
+    "name": "時代劇",
+    "url": "http://anago.2ch.net/kin/"
+  },
+  {
+    "name": "ラジオ番組",
+    "url": "http://anago.2ch.net/am/"
+  },
+  {
+    "name": "懐かしラジオ",
+    "url": "http://uni.2ch.net/rradio/"
+  },
+  {
+    "name": "海外テレビ",
+    "url": "http://anago.2ch.net/tv2/"
+  },
+  {
+    "name": "韓流",
+    "url": "http://uni.2ch.net/hanryu/"
+  },
+  {
+    "name": "ケーブル放送",
+    "url": "http://anago.2ch.net/cs/"
+  },
+  {
+    "name": "スカパー",
+    "url": "http://anago.2ch.net/skyp/"
+  },
+  {
+    "name": "デジタル放送",
+    "url": "http://anago.2ch.net/bs/"
+  },
+  {
+    "name": "NHK",
+    "url": "http://anago.2ch.net/nhk/"
+  },
+  {
+    "name": "芸能",
+    "url": "http://anago.2ch.net/geino/"
+  },
+  {
+    "name": "海外芸能人",
+    "url": "http://anago.2ch.net/celebrity/"
+  },
+  {
+    "name": "アジアエンタメ",
+    "url": "http://uni.2ch.net/4sama/"
+  },
+  {
+    "name": "懐かし芸能人",
+    "url": "http://anago.2ch.net/kyon2/"
+  },
+  {
+    "name": "男性俳優",
+    "url": "http://anago.2ch.net/actor/"
+  },
+  {
+    "name": "女優",
+    "url": "http://anago.2ch.net/actress/"
+  },
+  {
+    "name": "U-15タレント",
+    "url": "http://anago.2ch.net/geinoj/"
+  },
+  {
+    "name": "お笑い芸人",
+    "url": "http://toro.2ch.net/geinin/"
+  },
+  {
+    "name": "アナウンサー",
+    "url": "http://kohada.2ch.net/ana/"
+  },
+  {
+    "name": "あみ＆あゆ",
+    "url": "http://anago.2ch.net/ami/"
+  },
+  {
+    "name": "椎名林檎",
+    "url": "http://anago.2ch.net/apple/"
+  },
+  {
+    "name": "モ娘（羊）",
+    "url": "http://anago.2ch.net/ainotane/"
+  },
+  {
+    "name": "モ娘（鳩）",
+    "url": "http://anago.2ch.net/zurui/"
+  },
+  {
+    "name": "男性アイドル",
+    "url": "http://anago.2ch.net/mendol/"
+  },
+  {
+    "name": "女性アイドル",
+    "url": "http://kohada.2ch.net/idol/"
+  },
+  {
+    "name": "地下アイドル",
+    "url": "http://awabi.2ch.net/akb/"
+  },
+  {
+    "name": "ローカルアイドル",
+    "url": "http://uni.2ch.net/ske/"
+  },
+  {
+    "name": "ジャニーズ",
+    "url": "http://anago.2ch.net/jan/"
+  },
+  {
+    "name": "スマップ",
+    "url": "http://anago.2ch.net/smap/"
+  },
+  {
+    "name": "ジャニーズ２",
+    "url": "http://anago.2ch.net/jr/"
+  },
+  {
+    "name": "麻雀・他",
+    "url": "http://anago.2ch.net/mj/"
+  },
+  {
+    "name": "パチンコサロン",
+    "url": "http://kohada.2ch.net/pachi/"
+  },
+  {
+    "name": "パチンコ店情報",
+    "url": "http://kohada.2ch.net/pachij/"
+  },
+  {
+    "name": "パチンコ機種等",
+    "url": "http://kohada.2ch.net/pachik/"
+  },
+  {
+    "name": "スロットサロン",
+    "url": "http://kohada.2ch.net/slot/"
+  },
+  {
+    "name": "スロット店情報",
+    "url": "http://kohada.2ch.net/slotj/"
+  },
+  {
+    "name": "スロット機種",
+    "url": "http://anago.2ch.net/slotk/"
+  },
+  {
+    "name": "競馬",
+    "url": "http://awabi.2ch.net/keiba/"
+  },
+  {
+    "name": "競馬２",
+    "url": "http://kohada.2ch.net/uma/"
+  },
+  {
+    "name": "競輪",
+    "url": "http://engawa.2ch.net/keirin/"
+  },
+  {
+    "name": "競艇",
+    "url": "http://kohada.2ch.net/kyotei/"
+  },
+  {
+    "name": "オートレース",
+    "url": "http://engawa.2ch.net/autorace/"
+  },
+  {
+    "name": "ギャンブル",
+    "url": "http://engawa.2ch.net/gamble/"
+  },
+  {
+    "name": "ゲームサロン",
+    "url": "http://toro.2ch.net/gsaloon/"
+  },
+  {
+    "name": "ゲーム速報",
+    "url": "http://awabi.2ch.net/gamenews/"
+  },
+  {
+    "name": "家ゲー攻略",
+    "url": "http://kohada.2ch.net/gameover/"
+  },
+  {
+    "name": "家ゲACT攻略",
+    "url": "http://kohada.2ch.net/goveract/"
+  },
+  {
+    "name": "家ゲRPG攻略",
+    "url": "http://kohada.2ch.net/goverrpg/"
+  },
+  {
+    "name": "家ゲーRPG",
+    "url": "http://toro.2ch.net/gamerpg/"
+  },
+  {
+    "name": "FF・ドラクエ",
+    "url": "http://kohada.2ch.net/ff/"
+  },
+  {
+    "name": "家ゲーSRPG",
+    "url": "http://kohada.2ch.net/gamesrpg/"
+  },
+  {
+    "name": "ロボットゲー",
+    "url": "http://toro.2ch.net/gamerobo/"
+  },
+  {
+    "name": "ギャルゲー",
+    "url": "http://toro.2ch.net/gal/"
+  },
+  {
+    "name": "女向ゲー一般",
+    "url": "http://kohada.2ch.net/ggirl/"
+  },
+  {
+    "name": "スポーツ・RACE",
+    "url": "http://kohada.2ch.net/gamespo/"
+  },
+  {
+    "name": "歴史ゲーム",
+    "url": "http://kohada.2ch.net/gamehis/"
+  },
+  {
+    "name": "音ゲー",
+    "url": "http://kohada.2ch.net/otoge/"
+  },
+  {
+    "name": "格闘ゲーム",
+    "url": "http://ikura.2ch.net/gamefight/"
+  },
+  {
+    "name": "シューティング",
+    "url": "http://kohada.2ch.net/gamestg/"
+  },
+  {
+    "name": "PCアクション",
+    "url": "http://kohada.2ch.net/gamef/"
+  },
+  {
+    "name": "フライトシム",
+    "url": "http://kohada.2ch.net/fly/"
+  },
+  {
+    "name": "家庭用ゲーム",
+    "url": "http://toro.2ch.net/famicom/"
+  },
+  {
+    "name": "家ゲーZ区分",
+    "url": "http://anago.2ch.net/zgame/"
+  },
+  {
+    "name": "レトロゲーム",
+    "url": "http://kohada.2ch.net/retro/"
+  },
+  {
+    "name": "家ゲーレトロ",
+    "url": "http://kohada.2ch.net/retro2/"
+  },
+  {
+    "name": "レトロ32bit以上",
+    "url": "http://kohada.2ch.net/game90/"
+  },
+  {
+    "name": "アーケード",
+    "url": "http://toro.2ch.net/arc/"
+  },
+  {
+    "name": "アケゲーレトロ",
+    "url": "http://anago.2ch.net/rarc/"
+  },
+  {
+    "name": "メダル・プライズ",
+    "url": "http://kohada.2ch.net/amusement/"
+  },
+  {
+    "name": "ゲーセン",
+    "url": "http://kohada.2ch.net/gecen/"
+  },
+  {
+    "name": "PCゲーム",
+    "url": "http://anago.2ch.net/game/"
+  },
+  {
+    "name": "同人ゲーム",
+    "url": "http://engawa.2ch.net/gameama/"
+  },
+  {
+    "name": "ブラウザゲーム",
+    "url": "http://uni.2ch.net/gameswf/"
+  },
+  {
+    "name": "卓上ゲーム",
+    "url": "http://kohada.2ch.net/cgame/"
+  },
+  {
+    "name": "TCG",
+    "url": "http://anago.2ch.net/tcg/"
+  },
+  {
+    "name": "将棋・チェス",
+    "url": "http://toro.2ch.net/bgame/"
+  },
+  {
+    "name": "囲碁・オセロ",
+    "url": "http://kohada.2ch.net/gamestones/"
+  },
+  {
+    "name": "クイズ雑学",
+    "url": "http://kohada.2ch.net/quiz/"
+  },
+  {
+    "name": "ハード・業界",
+    "url": "http://anago.2ch.net/ghard/"
+  },
+  {
+    "name": "裏技・改造",
+    "url": "http://kohada.2ch.net/gameurawaza/"
+  },
+  {
+    "name": "ゲームキャラ",
+    "url": "http://kohada.2ch.net/gamechara/"
+  },
+  {
+    "name": "携帯ゲーソフト",
+    "url": "http://toro.2ch.net/handygame/"
+  },
+  {
+    "name": "携帯ゲー攻略",
+    "url": "http://kohada.2ch.net/handygover/"
+  },
+  {
+    "name": "携帯ゲーRPG",
+    "url": "http://toro.2ch.net/handygrpg/"
+  },
+  {
+    "name": "ポケモン",
+    "url": "http://kohada.2ch.net/poke/"
+  },
+  {
+    "name": "Wi-Fi",
+    "url": "http://kohada.2ch.net/wifi/"
+  },
+  {
+    "name": "携帯ゲーレトロ",
+    "url": "http://kohada.2ch.net/rhandyg/"
+  },
+  {
+    "name": "ネトゲ速報",
+    "url": "http://engawa.2ch.net/mmonews/"
+  },
+  {
+    "name": "ネトゲ質問",
+    "url": "http://kohada.2ch.net/mmoqa/"
+  },
+  {
+    "name": "ネトゲ実況",
+    "url": "http://awabi.2ch.net/ogame/"
+  },
+  {
+    "name": "ネトゲ実況2",
+    "url": "http://awabi.2ch.net/ogame2/"
+  },
+  {
+    "name": "ネトゲ実況3",
+    "url": "http://awabi.2ch.net/ogame3/"
+  },
+  {
+    "name": "ネトゲサロン",
+    "url": "http://kohada.2ch.net/mmosaloon/"
+  },
+  {
+    "name": "ネットゲーム",
+    "url": "http://toro.2ch.net/netgame/"
+  },
+  {
+    "name": "大規模MMO",
+    "url": "http://toro.2ch.net/mmo/"
+  },
+  {
+    "name": "アニメ漫画速報",
+    "url": "http://engawa.2ch.net/comicnews/"
+  },
+  {
+    "name": "アニメサロン",
+    "url": "http://awabi.2ch.net/asaloon/"
+  },
+  {
+    "name": "アニメサロンex",
+    "url": "http://uni.2ch.net/anime4vip/"
+  },
+  {
+    "name": "アニメ",
+    "url": "http://toro.2ch.net/anime/"
+  },
+  {
+    "name": "アニメ２",
+    "url": "http://ikura.2ch.net/anime2/"
+  },
+  {
+    "name": "アニメ新作情報",
+    "url": "http://engawa.2ch.net/anime3/"
+  },
+  {
+    "name": "懐アニ昭和",
+    "url": "http://engawa.2ch.net/ranime/"
+  },
+  {
+    "name": "懐アニ平成",
+    "url": "http://engawa.2ch.net/ranimeh/"
+  },
+  {
+    "name": "アニメ映画",
+    "url": "http://kohada.2ch.net/animovie/"
+  },
+  {
+    "name": "アニキャラ総合",
+    "url": "http://engawa.2ch.net/anichara/"
+  },
+  {
+    "name": "アニキャラ個別",
+    "url": "http://ikura.2ch.net/anichara2/"
+  },
+  {
+    "name": "コスプレ",
+    "url": "http://kohada.2ch.net/cosp/"
+  },
+  {
+    "name": "声優総合",
+    "url": "http://uni.2ch.net/voice/"
+  },
+  {
+    "name": "声優個人",
+    "url": "http://ikura.2ch.net/voiceactor/"
+  },
+  {
+    "name": "同人",
+    "url": "http://kohada.2ch.net/doujin/"
+  },
+  {
+    "name": "同人イベント",
+    "url": "http://uni.2ch.net/comiket/"
+  },
+  {
+    "name": "漫画サロン",
+    "url": "http://kohada.2ch.net/csaloon/"
+  },
+  {
+    "name": "漫画",
+    "url": "http://kohada.2ch.net/comic/"
+  },
+  {
+    "name": "懐かし漫画",
+    "url": "http://kohada.2ch.net/rcomic/"
+  },
+  {
+    "name": "少年漫画",
+    "url": "http://kohada.2ch.net/ymag/"
+  },
+  {
+    "name": "週刊少年漫画",
+    "url": "http://ikura.2ch.net/wcomic/"
+  },
+  {
+    "name": "少女漫画",
+    "url": "http://kohada.2ch.net/gcomic/"
+  },
+  {
+    "name": "４コマ漫画",
+    "url": "http://kohada.2ch.net/4koma/"
+  },
+  {
+    "name": "漫画キャラ",
+    "url": "http://kohada.2ch.net/cchara/"
+  },
+  {
+    "name": "CCさくら",
+    "url": "http://engawa.2ch.net/sakura/"
+  },
+  {
+    "name": "エヴァ",
+    "url": "http://engawa.2ch.net/eva/"
+  },
+  {
+    "name": "海外アニメ漫画",
+    "url": "http://kohada.2ch.net/cartoon/"
+  },
+  {
+    "name": "アニメ漫画業界",
+    "url": "http://kohada.2ch.net/iga/"
+  },
+  {
+    "name": "文芸書籍サロン",
+    "url": "http://toro.2ch.net/bookall/"
+  },
+  {
+    "name": "ライトノベル",
+    "url": "http://toro.2ch.net/magazin/"
+  },
+  {
+    "name": "ミステリー",
+    "url": "http://toro.2ch.net/mystery/"
+  },
+  {
+    "name": "SF・FT・ホラー",
+    "url": "http://toro.2ch.net/sf/"
+  },
+  {
+    "name": "ノベルキャラ",
+    "url": "http://uni.2ch.net/litechara/"
+  },
+  {
+    "name": "雑誌",
+    "url": "http://toro.2ch.net/zassi/"
+  },
+  {
+    "name": "一般書籍",
+    "url": "http://toro.2ch.net/books/"
+  },
+  {
+    "name": "電子書籍",
+    "url": "http://uni.2ch.net/ebooks/"
+  },
+  {
+    "name": "絵本",
+    "url": "http://toro.2ch.net/ehon/"
+  },
+  {
+    "name": "児童書",
+    "url": "http://toro.2ch.net/juvenile/"
+  },
+  {
+    "name": "芸能音楽速報",
+    "url": "http://ikura.2ch.net/musicnews/"
+  },
+  {
+    "name": "音楽サロン",
+    "url": "http://awabi.2ch.net/msaloon/"
+  },
+  {
+    "name": "邦楽サロン",
+    "url": "http://awabi.2ch.net/mjsaloon/"
+  },
+  {
+    "name": "邦楽",
+    "url": "http://awabi.2ch.net/musicj/"
+  },
+  {
+    "name": "邦楽男性ソロ",
+    "url": "http://awabi.2ch.net/musicjm/"
+  },
+  {
+    "name": "邦楽女性ソロ",
+    "url": "http://awabi.2ch.net/musicjf/"
+  },
+  {
+    "name": "邦楽グループ",
+    "url": "http://toro.2ch.net/musicjg/"
+  },
+  {
+    "name": "懐メロ邦楽",
+    "url": "http://uni.2ch.net/natsumeloj/"
+  },
+  {
+    "name": "演歌",
+    "url": "http://awabi.2ch.net/enka/"
+  },
+  {
+    "name": "洋楽サロン",
+    "url": "http://awabi.2ch.net/mesaloon/"
+  },
+  {
+    "name": "洋楽",
+    "url": "http://awabi.2ch.net/musice/"
+  },
+  {
+    "name": "懐メロ洋楽",
+    "url": "http://ikura.2ch.net/natsumeloe/"
+  },
+  {
+    "name": "音楽一般",
+    "url": "http://awabi.2ch.net/music/"
+  },
+  {
+    "name": "ビートルズ",
+    "url": "http://uni.2ch.net/beatles/"
+  },
+  {
+    "name": "ヴィジュサロン",
+    "url": "http://anago.2ch.net/visual/"
+  },
+  {
+    "name": "ヴィジュバンド",
+    "url": "http://toro.2ch.net/visualb/"
+  },
+  {
+    "name": "ＤＪ・クラブ",
+    "url": "http://awabi.2ch.net/dj/"
+  },
+  {
+    "name": "ディスコ",
+    "url": "http://awabi.2ch.net/disco/"
+  },
+  {
+    "name": "R&B・SOUL",
+    "url": "http://awabi.2ch.net/randb/"
+  },
+  {
+    "name": "パンク",
+    "url": "http://awabi.2ch.net/punk/"
+  },
+  {
+    "name": "HR・HM",
+    "url": "http://awabi.2ch.net/hrhm/"
+  },
+  {
+    "name": "HIPHOP",
+    "url": "http://awabi.2ch.net/hiphop/"
+  },
+  {
+    "name": "TECHNO",
+    "url": "http://awabi.2ch.net/techno/"
+  },
+  {
+    "name": "プログレ",
+    "url": "http://awabi.2ch.net/progre/"
+  },
+  {
+    "name": "ヒーリング音楽",
+    "url": "http://ikura.2ch.net/healmusic/"
+  },
+  {
+    "name": "ワールド音楽",
+    "url": "http://awabi.2ch.net/wmusic/"
+  },
+  {
+    "name": "レゲエ",
+    "url": "http://anago.2ch.net/reggae/"
+  },
+  {
+    "name": "ジャズ",
+    "url": "http://awabi.2ch.net/classic/"
+  },
+  {
+    "name": "フュージョン",
+    "url": "http://ikura.2ch.net/fusion/"
+  },
+  {
+    "name": "クラシック",
+    "url": "http://awabi.2ch.net/classical/"
+  },
+  {
+    "name": "現代音楽",
+    "url": "http://awabi.2ch.net/contemporary/"
+  },
+  {
+    "name": "エレクトロニカ",
+    "url": "http://awabi.2ch.net/nika/"
+  },
+  {
+    "name": "吹奏楽",
+    "url": "http://awabi.2ch.net/suisou/"
+  },
+  {
+    "name": "合唱",
+    "url": "http://ikura.2ch.net/chorus/"
+  },
+  {
+    "name": "童謡・唱歌",
+    "url": "http://awabi.2ch.net/doyo/"
+  },
+  {
+    "name": "アニソン等",
+    "url": "http://kohada.2ch.net/asong/"
+  },
+  {
+    "name": "サントラ",
+    "url": "http://ikura.2ch.net/soundtrack/"
+  },
+  {
+    "name": "カラオケ",
+    "url": "http://awabi.2ch.net/karaok/"
+  },
+  {
+    "name": "伝説の",
+    "url": "http://awabi.2ch.net/legend/"
+  },
+  {
+    "name": "インディーズ",
+    "url": "http://awabi.2ch.net/minor/"
+  },
+  {
+    "name": "バンド",
+    "url": "http://ikura.2ch.net/band/"
+  },
+  {
+    "name": "楽器・作曲",
+    "url": "http://awabi.2ch.net/compose/"
+  },
+  {
+    "name": "癒し",
+    "url": "http://uni.2ch.net/healing/"
+  },
+  {
+    "name": "人生相談",
+    "url": "http://uni.2ch.net/jinsei/"
+  },
+  {
+    "name": "心と宗教",
+    "url": "http://uni.2ch.net/psy/"
+  },
+  {
+    "name": "身体・健康",
+    "url": "http://uni.2ch.net/body/"
+  },
+  {
+    "name": "マッサージ等",
+    "url": "http://uni.2ch.net/stretch/"
+  },
+  {
+    "name": "ハンディキャップ",
+    "url": "http://engawa.2ch.net/handicap/"
+  },
+  {
+    "name": "癌・腫瘍",
+    "url": "http://engawa.2ch.net/cancer/"
+  },
+  {
+    "name": "難病",
+    "url": "http://uni.2ch.net/nanbyou/"
+  },
+  {
+    "name": "新型感染症",
+    "url": "http://ikura.2ch.net/infection/"
+  },
+  {
+    "name": "HIVサロン",
+    "url": "http://toro.2ch.net/hiv/"
+  },
+  {
+    "name": "アトピー",
+    "url": "http://uni.2ch.net/atopi/"
+  },
+  {
+    "name": "アレルギー",
+    "url": "http://uni.2ch.net/allergy/"
+  },
+  {
+    "name": "ハゲ・ズラ",
+    "url": "http://uni.2ch.net/hage/"
+  },
+  {
+    "name": "純情恋愛",
+    "url": "http://toro.2ch.net/pure/"
+  },
+  {
+    "name": "不倫・浮気",
+    "url": "http://toro.2ch.net/furin/"
+  },
+  {
+    "name": "同性愛",
+    "url": "http://toro.2ch.net/gay/"
+  },
+  {
+    "name": "メンタルヘルス",
+    "url": "http://toro.2ch.net/utu/"
+  },
+  {
+    "name": "PCサロン",
+    "url": "http://engawa.2ch.net/pc2nanmin/"
+  },
+  {
+    "name": "PCニュース",
+    "url": "http://kohada.2ch.net/pcnews/"
+  },
+  {
+    "name": "Windows",
+    "url": "http://toro.2ch.net/win/"
+  },
+  {
+    "name": "旧・mac",
+    "url": "http://engawa.2ch.net/jobs/"
+  },
+  {
+    "name": "新・mac",
+    "url": "http://anago.2ch.net/mac/"
+  },
+  {
+    "name": "OS",
+    "url": "http://kohada.2ch.net/os/"
+  },
+  {
+    "name": "デスクトップ",
+    "url": "http://toro.2ch.net/desktop/"
+  },
+  {
+    "name": "パソコン一般",
+    "url": "http://kohada.2ch.net/pc/"
+  },
+  {
+    "name": "ノートPC",
+    "url": "http://anago.2ch.net/notepc/"
+  },
+  {
+    "name": "自作PC",
+    "url": "http://anago.2ch.net/jisaku/"
+  },
+  {
+    "name": "プリンタ",
+    "url": "http://kohada.2ch.net/printer/"
+  },
+  {
+    "name": "ハードウェア",
+    "url": "http://toro.2ch.net/hard/"
+  },
+  {
+    "name": "CD-R,DVD",
+    "url": "http://toro.2ch.net/cdr/"
+  },
+  {
+    "name": "ソフトウェア",
+    "url": "http://anago.2ch.net/software/"
+  },
+  {
+    "name": "モバイル",
+    "url": "http://anago.2ch.net/mobile/"
+  },
+  {
+    "name": "ビジネスsoft",
+    "url": "http://toro.2ch.net/bsoft/"
+  },
+  {
+    "name": "UNIX",
+    "url": "http://toro.2ch.net/unix/"
+  },
+  {
+    "name": "データベース",
+    "url": "http://toro.2ch.net/db/"
+  },
+  {
+    "name": "Linux",
+    "url": "http://engawa.2ch.net/linux/"
+  },
+  {
+    "name": "プログラマー",
+    "url": "http://kohada.2ch.net/prog/"
+  },
+  {
+    "name": "プログラム",
+    "url": "http://toro.2ch.net/tech/"
+  },
+  {
+    "name": "ＣＧ",
+    "url": "http://toro.2ch.net/cg/"
+  },
+  {
+    "name": "DTM",
+    "url": "http://anago.2ch.net/dtm/"
+  },
+  {
+    "name": "DTV",
+    "url": "http://toro.2ch.net/avi/"
+  },
+  {
+    "name": "FLASH",
+    "url": "http://toro.2ch.net/swf/"
+  },
+  {
+    "name": "ゲ製作技術",
+    "url": "http://toro.2ch.net/gamedev/"
+  },
+  {
+    "name": "インターネット",
+    "url": "http://toro.2ch.net/internet/"
+  },
+  {
+    "name": "Download",
+    "url": "http://awabi.2ch.net/download/"
+  },
+  {
+    "name": "Web制作",
+    "url": "http://toro.2ch.net/hp/"
+  },
+  {
+    "name": "Web収入",
+    "url": "http://toro.2ch.net/affiliate/"
+  },
+  {
+    "name": "レンタル鯖",
+    "url": "http://toro.2ch.net/hosting/"
+  },
+  {
+    "name": "自宅サーバ",
+    "url": "http://engawa.2ch.net/mysv/"
+  },
+  {
+    "name": "WebProg",
+    "url": "http://kohada.2ch.net/php/"
+  },
+  {
+    "name": "ネットワーク",
+    "url": "http://toro.2ch.net/hack/"
+  },
+  {
+    "name": "セキュリティ",
+    "url": "http://kohada.2ch.net/sec/"
+  },
+  {
+    "name": "通信技術",
+    "url": "http://engawa.2ch.net/network/"
+  },
+  {
+    "name": "IPv6",
+    "url": "http://ipv6.2ch.net/ipv6/"
+  },
+  {
+    "name": "ポスペ・irc",
+    "url": "http://toro.2ch.net/friend/"
+  },
+  {
+    "name": "プロバイダー",
+    "url": "http://engawa.2ch.net/isp/"
+  },
+  {
+    "name": "ネットカフェ",
+    "url": "http://engawa.2ch.net/netspot/"
+  },
+  {
+    "name": "Nifty",
+    "url": "http://kohada.2ch.net/nifty/"
+  },
+  {
+    "name": "Google",
+    "url": "http://toro.2ch.net/google/"
+  },
+  {
+    "name": "メルマガ",
+    "url": "http://engawa.2ch.net/mmag/"
+  },
+  {
+    "name": "難民",
+    "url": "http://kohada.2ch.net/nanmin/"
+  },
+  {
+    "name": "宣伝掲示板",
+    "url": "http://engawa.2ch.net/ad/"
+  },
+  {
+    "name": "ネットサービス",
+    "url": "http://toro.2ch.net/esite/"
+  },
+  {
+    "name": "YouTube",
+    "url": "http://anago.2ch.net/streaming/"
+  },
+  {
+    "name": "携帯動画",
+    "url": "http://engawa.2ch.net/mstreaming/"
+  },
+  {
+    "name": "音楽配信",
+    "url": "http://awabi.2ch.net/mdis/"
+  },
+  {
+    "name": "ネットラジオ等",
+    "url": "http://hayabusa.2ch.net/netradio/"
+  },
+  {
+    "name": "ブログ",
+    "url": "http://toro.2ch.net/blog/"
+  },
+  {
+    "name": "ソーシャルネット",
+    "url": "http://anago.2ch.net/sns/"
+  },
+  {
+    "name": "ネットwatch",
+    "url": "http://awabi.2ch.net/net/"
+  },
+  {
+    "name": "ツイッター観察",
+    "url": "http://uni.2ch.net/twwatch/"
+  },
+  {
+    "name": "オークション",
+    "url": "http://anago.2ch.net/yahoo/"
+  },
+  {
+    "name": "おいらロビー",
+    "url": "http://ikura.2ch.net/bobby/"
+  },
+  {
+    "name": "ロビー",
+    "url": "http://anago.2ch.net/lobby/"
+  },
+  {
+    "name": "●",
+    "url": "http://ikura.2ch.net/maru/"
+  },
+  {
+    "name": "なんでもあり",
+    "url": "http://awabi.2ch.net/mog2/"
+  },
+  {
+    "name": "昔",
+    "url": "http://ikura.2ch.net/mukashi/"
+  },
+  {
+    "name": "厨房！",
+    "url": "http://toro.2ch.net/kitchen/"
+  },
+  {
+    "name": "最悪",
+    "url": "http://anago.2ch.net/tubo/"
+  },
+  {
+    "name": "学歴",
+    "url": "http://ikura.2ch.net/joke/"
+  },
+  {
+    "name": "主義・主張",
+    "url": "http://anago.2ch.net/shugi/"
+  },
+  {
+    "name": "人権問題",
+    "url": "http://anago.2ch.net/rights/"
+  },
+  {
+    "name": "2ch批判要望",
+    "url": "http://engawa.2ch.net/accuse/"
+  },
+  {
+    "name": "モ娘（狼）",
+    "url": "http://hayabusa3.2ch.net/morningcoffee/"
+  },
+  {
+    "name": "格付け",
+    "url": "http://engawa.2ch.net/ranking/"
+  },
+  {
+    "name": "新記録・珍記録",
+    "url": "http://anago.2ch.net/record/"
+  },
+  {
+    "name": "シベリア超速報",
+    "url": "http://toro.2ch.net/siberia/"
+  },
+  {
+    "name": "ニュー速VIP",
+    "url": "http://hayabusa.2ch.net/news4vip/"
+  },
+  {
+    "name": "ニュー速VIP+",
+    "url": "http://hayabusa3.2ch.net/news4viptasu/"
+  },
+  {
+    "name": "ニュー速(嫌儲)",
+    "url": "http://engawa.2ch.net/poverty/"
+  },
+  {
+    "name": "天国",
+    "url": "http://anago.2ch.net/heaven4vip/"
+  },
+  {
+    "name": "ニー速",
+    "url": "http://anago.2ch.net/neet4vip/"
+  },
+  {
+    "name": "ガイドライン",
+    "url": "http://info.2ch.net/guide/adv.html"
+  },
+  {
+    "name": "削除屋ＭＬ",
+    "url": "http://members.tripod.co.jp/Backy/del_2ch/"
+  },
+  {
+    "name": "TOPページ",
+    "url": "http://www.bbspink.com/"
+  },
+  {
+    "name": "PINKheadline",
+    "url": "http://headline.bbspink.com/bbypink/"
+  },
+  {
+    "name": "ピンクニュース",
+    "url": "http://pele.bbspink.com/hnews/"
+  },
+  {
+    "name": "pink初心者",
+    "url": "http://pele.bbspink.com/pinkqa/"
+  },
+  {
+    "name": "スレH・エロ会話",
+    "url": "http://pele.bbspink.com/sureh/"
+  },
+  {
+    "name": "大人の実況",
+    "url": "http://pele.bbspink.com/erolive/"
+  },
+  {
+    "name": "えっちねた",
+    "url": "http://kilauea.bbspink.com/hneta/"
+  },
+  {
+    "name": "PINKのおいらロ",
+    "url": "http://pele.bbspink.com/pinkcafe/"
+  },
+  {
+    "name": "PINKのなんでも",
+    "url": "http://pele.bbspink.com/eromog2/"
+  },
+  {
+    "name": "お下品",
+    "url": "http://pele.bbspink.com/ogefin/"
+  },
+  {
+    "name": "801サロン",
+    "url": "http://kilauea.bbspink.com/801saloon/"
+  },
+  {
+    "name": "ぴんく難民",
+    "url": "http://kilauea.bbspink.com/pinknanmin/"
+  },
+  {
+    "name": "pink秘密基地",
+    "url": "http://pele.bbspink.com/erobbs/"
+  },
+  {
+    "name": "PINK削除依頼",
+    "url": "http://pele.bbspink.com/housekeeping/"
+  },
+  {
+    "name": "PINK規制議論",
+    "url": "http://pele.bbspink.com/ccc/"
+  },
+  {
+    "name": "くノ一の山",
+    "url": "http://pele.bbspink.com/yama/"
+  },
+  {
+    "name": "大人の海外",
+    "url": "http://pele.bbspink.com/21oversea2/"
+  },
+  {
+    "name": "エロゲー",
+    "url": "http://kilauea.bbspink.com/hgame/"
+  },
+  {
+    "name": "エロゲー作品別",
+    "url": "http://kilauea.bbspink.com/hgame2/"
+  },
+  {
+    "name": "エロゲネタ",
+    "url": "http://pele.bbspink.com/erog/"
+  },
+  {
+    "name": "Leaf・key",
+    "url": "http://pele.bbspink.com/leaf/"
+  },
+  {
+    "name": "女向ゲー大人",
+    "url": "http://kilauea.bbspink.com/gagame/"
+  },
+  {
+    "name": "アダルトサイト",
+    "url": "http://pele.bbspink.com/adultsite/"
+  },
+  {
+    "name": "ウェブマスター",
+    "url": "http://pele.bbspink.com/webmaster/"
+  },
+  {
+    "name": "AV総合",
+    "url": "http://pele.bbspink.com/avideo/"
+  },
+  {
+    "name": "AV女優",
+    "url": "http://pele.bbspink.com/avideo2/"
+  },
+  {
+    "name": "ヌード・エロ本",
+    "url": "http://pele.bbspink.com/nude/"
+  },
+  {
+    "name": "エロアニメ等",
+    "url": "http://pele.bbspink.com/eroanime/"
+  },
+  {
+    "name": "エロ漫画小説",
+    "url": "http://pele.bbspink.com/erocomic/"
+  },
+  {
+    "name": "エロ同人",
+    "url": "http://pele.bbspink.com/erodoujin/"
+  },
+  {
+    "name": "懐かしエロ",
+    "url": "http://pele.bbspink.com/natuero/"
+  },
+  {
+    "name": "韓国美人",
+    "url": "http://pele.bbspink.com/kgirls/"
+  },
+  {
+    "name": "エロコスプレ",
+    "url": "http://pele.bbspink.com/erocosp/"
+  },
+  {
+    "name": "PINKな学問",
+    "url": "http://pele.bbspink.com/eroacademy/"
+  },
+  {
+    "name": "健康相談(大人)",
+    "url": "http://pele.bbspink.com/mcheck/"
+  },
+  {
+    "name": "夫婦生活",
+    "url": "http://pele.bbspink.com/couple/"
+  },
+  {
+    "name": "過激な恋愛",
+    "url": "http://pele.bbspink.com/kageki/"
+  },
+  {
+    "name": "大人の恋愛",
+    "url": "http://pele.bbspink.com/kageki2/"
+  },
+  {
+    "name": "オナテク",
+    "url": "http://pele.bbspink.com/onatech/"
+  },
+  {
+    "name": "ラブホテル",
+    "url": "http://pele.bbspink.com/loveho/"
+  },
+  {
+    "name": "アダルトグッズ",
+    "url": "http://pele.bbspink.com/adultgoods/"
+  },
+  {
+    "name": "大人の飾り",
+    "url": "http://pele.bbspink.com/adultaccessory/"
+  },
+  {
+    "name": "ＳＭ",
+    "url": "http://pele.bbspink.com/sm/"
+  },
+  {
+    "name": "フェチ",
+    "url": "http://pele.bbspink.com/feti/"
+  },
+  {
+    "name": "熟女",
+    "url": "http://pele.bbspink.com/mature/"
+  },
+  {
+    "name": "おかま・おなべ",
+    "url": "http://pele.bbspink.com/okama/"
+  },
+  {
+    "name": "大人の同性愛",
+    "url": "http://pele.bbspink.com/gaypink/"
+  },
+  {
+    "name": "レズ・百合萌え",
+    "url": "http://pele.bbspink.com/lesbian/"
+  },
+  {
+    "name": "エロAA",
+    "url": "http://pele.bbspink.com/eroaa/"
+  },
+  {
+    "name": "キャラサロン",
+    "url": "http://pele.bbspink.com/erochara/"
+  },
+  {
+    "name": "オリキャラ",
+    "url": "http://pele.bbspink.com/erochara2/"
+  },
+  {
+    "name": "８０１",
+    "url": "http://pele.bbspink.com/801/"
+  },
+  {
+    "name": "お絵描き・創作",
+    "url": "http://pele.bbspink.com/erocg/"
+  },
+  {
+    "name": "エロパロ",
+    "url": "http://pele.bbspink.com/eroparo/"
+  },
+  {
+    "name": "半角文字列",
+    "url": "http://kilauea.bbspink.com/ascii/"
+  },
+  {
+    "name": "半角二次元",
+    "url": "http://pele.bbspink.com/ascii2d/"
+  },
+  {
+    "name": "半角かな",
+    "url": "http://kilauea.bbspink.com/ascii2kana/"
+  },
+  {
+    "name": "アイドル画像",
+    "url": "http://pele.bbspink.com/girls/"
+  },
+  {
+    "name": "スポーツ画像",
+    "url": "http://pele.bbspink.com/sportgirls/"
+  },
+  {
+    "name": "風俗全般",
+    "url": "http://kilauea.bbspink.com/club/"
+  },
+  {
+    "name": "お水出会い系",
+    "url": "http://kilauea.bbspink.com/pub/"
+  },
+  {
+    "name": "ホストクラブ",
+    "url": "http://pele.bbspink.com/host/"
+  },
+  {
+    "name": "へるす",
+    "url": "http://kilauea.bbspink.com/nuki/"
+  },
+  {
+    "name": "ソープ",
+    "url": "http://kilauea.bbspink.com/soap/"
+  },
+  {
+    "name": "ニー速(pink)",
+    "url": "http://pele.bbspink.com/neet4pink/"
+  },
+  {
+    "name": "童貞",
+    "url": "http://kilauea.bbspink.com/cherryboy/"
+  },
+  {
+    "name": "女神",
+    "url": "http://kilauea.bbspink.com/megami/"
+  },
+  {
+    "name": "にゃあ",
+    "url": "http://kilauea.bbspink.com/meow/"
+  },
+  {
+    "name": "大人のモバイル",
+    "url": "http://kilauea.bbspink.com/mobpink/"
+  }
+]

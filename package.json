@@ -1,0 +1,19 @@
+{
+  "name": "nich_img",
+  "version": "0.0.0",
+  "description": "",
+  "main": "read_dat.js",
+  "engines": {
+    "node": ">=0.10.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodeunit": "0.8.1",
+    "log": "~1.4.0",
+    "iconv": "~2.0.6"
+  },
+  "author": "hiroki0",
+  "license": "BSD"
+}
